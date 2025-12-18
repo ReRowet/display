@@ -14,12 +14,22 @@
 
 
 ## Admin & Owner
-
  - Dapat melihat seluruh data
+
+---
+
+### Reminder\Notifikasi
  - Reminder adalah notifikasi 3 hari yang belum input realtime (ada fungsi refresh untuk fetch data)
- - Overview memiliki filter untuk masing-masing data
- - 
 
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-06.jpg'/>
+
+---
+
+### Overview
+
+1. Overview Pemasukan
+ - Overview memiliki filter untuk masing-masing data
+ - 
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-08.jpg'/>
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-09.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-11.jpg'/>
