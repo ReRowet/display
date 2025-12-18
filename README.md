@@ -26,10 +26,29 @@
 ---
 
 ### Overview
-
-1. Overview Pemasukan
  - Overview memiliki filter untuk masing-masing data
- - 
+ - Masing - masing memiliki diagram dan tabel
+   
+1. Overview Pemasukan
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-08.jpg'/>
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-09.jpg'/>
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-11.jpg'/>
+
+2. Overview Realtime
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-12.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-14.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-16.jpg'/>
+
+2. Overview Channel
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-18.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-20.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_07-19-12.jpg'/>
+
+---
+
+### Settings
+ - Filter menampilkan diagram dan tabel dari data yang sama
+ - Fitur memindahkan sheet pada settings adalah untuk memindahkan dari spreadsheets database ke spreadsheets baru
+   
+<src img='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-22.jpg'/>
+<src img='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-25.jpg'/>
