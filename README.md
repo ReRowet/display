@@ -50,5 +50,5 @@
  - Filter menampilkan diagram dan tabel dari data yang sama
  - Fitur memindahkan sheet pada settings adalah untuk memindahkan dari spreadsheets database ke spreadsheets baru
    
-<src img='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-22.jpg'/>
-<src img='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-25.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-22.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-25.jpg'/>
