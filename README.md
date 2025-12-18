@@ -1,5 +1,10 @@
 # DISPLAY
 
+## Login
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_07-30-43.jpg'/>
+
+---
+
 ## Karyawan
 
  - Karyawan hanya melihat (Dashbord, Input Channel, Input Realtime) --> Contoh Budi : akun admin
@@ -8,10 +13,12 @@
  - Fungsi absen opsional
 
 ---
+
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-01.jpg'/>
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-03.jpg'/>
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-04.jpg'/>
 
+---
 
 ## Admin & Owner
  - Dapat melihat seluruh data
@@ -52,3 +59,11 @@
    
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-22.jpg'/>
 <img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_06-46-25.jpg'/>
+
+---
+
+## Sheet
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_07-30-58.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_07-30-54.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_07-30-49.jpg'/>
+<img src='https://github.com/ReRowet/display/blob/main/photo_2025-12-18_07-30-47.jpg'/>
